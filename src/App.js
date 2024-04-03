@@ -3,6 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className="all">
    <div className="left">
 <h2>Thank you for <br /> choosing us to <br /> take care of your <br /> smile!</h2>
 
@@ -34,7 +35,7 @@ function App() {
 </div>
 
 
-
+</div>
     </div>
   );
 }

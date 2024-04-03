@@ -5,7 +5,7 @@ body{
   background-color: antiquewhite;
   font-family: Poppins;
 }
-.App{
+.all{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
